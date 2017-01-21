@@ -46,7 +46,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\GenerateGameBoard_Script.cs" />
+     <Compile Include="Assets\Board_Manager_Script.cs" />
+     <Compile Include="Assets\Game_Controller_Script.cs" />
      <Compile Include="Assets\TileResource_Script.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/Unity Install Files/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
