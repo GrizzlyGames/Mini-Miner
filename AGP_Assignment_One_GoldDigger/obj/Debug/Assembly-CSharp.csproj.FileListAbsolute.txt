@@ -28,3 +28,4 @@ C:\Users\Grizzly\Documents\GitHub\Mini-Miner\Mini-Miner\AGP_Assignment_One_GoldD
 C:\Users\Grizzly\Documents\GitHub\Mini-Miner\Mini-Miner\AGP_Assignment_One_GoldDigger\Temp\bin\Debug\UnityEngine.VR.xml
 C:\Users\Grizzly\Documents\GitHub\Mini-Miner\Mini-Miner\AGP_Assignment_One_GoldDigger\obj\Debug\Assembly-CSharp.dll
 C:\Users\Grizzly\Documents\GitHub\Mini-Miner\Mini-Miner\AGP_Assignment_One_GoldDigger\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Grizzly\Documents\GitHub\Mini-Miner\Mini-Miner\AGP_Assignment_One_GoldDigger\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache

@@ -91,4 +91,17 @@ public class Board_Manager_Script : MonoBehaviour
         tile[x + 1, y - 1].GetComponent<TileResource_Script>().SetTileColor();
         tile[x - 1, y - 1].GetComponent<TileResource_Script>().SetTileColor();
     }
+
+    public void ReduceTileValue(int x, int y)
+    {
+        tile[x, y].GetComponent<TileResource_Script>().ReduceTileValue();
+        tile[x + 1, y].GetComponent<TileResource_Script>().ReduceTileValue();
+        tile[x - 1, y].GetComponent<TileResource_Script>().ReduceTileValue();
+        tile[x, y + 1].GetComponent<TileResource_Script>().ReduceTileValue();
+        tile[x, y - 1].GetComponent<TileResource_Script>().ReduceTileValue();
+        tile[x + 1, y + 1].GetComponent<TileResource_Script>().ReduceTileValue();
+        tile[x - 1, y + 1].GetComponent<TileResource_Script>().ReduceTileValue();
+        tile[x + 1, y - 1].GetComponent<TileResource_Script>().ReduceTileValue();
+        tile[x - 1, y - 1].GetComponent<TileResource_Script>().ReduceTileValue();
+    }
 }
